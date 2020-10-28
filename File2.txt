@@ -1,3 +1,5 @@
 Welcome 2 demo...
 change 1: done by team mate on master for WI5 and check rebase merging
 change 2: for feature payment to test rebase and change to test in EN1
+
+change 3: teset stash for partial for half done work
