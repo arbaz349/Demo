@@ -1,7 +1,10 @@
 hello world!!!!
 
-change 1 - for login feature
+change 1: - for login feature
 
-change 2 - bug1 fix
+change 2: - bug1 fix
 
-change 3- by team mate for WI3
+change 3: - by team mate for WI3
+
+change 4: - to fix bug2
+
