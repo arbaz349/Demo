@@ -11,3 +11,4 @@ change 4: - to fix bug2
 change 5: - to test push normal to remote master
 
 change 6: - teamate change for CR1 on remote master to test rebase 
+chnage 7: - teammate change for CR2 on remote master
